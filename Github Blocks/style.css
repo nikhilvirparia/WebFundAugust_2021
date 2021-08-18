@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+img.octocat {
+    height: 150px;
+}
+
+#Wrapper {
+    width: 750px;
+    background-color: lightblue;
+    margin: 0px auto;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    background-color: aqua;
+    margin: 10px 100px;
+    padding: 20px;
+
+}
+
+.middle-nav {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    background-color: lightgray;
+    margin: 10px 100px;
+    padding: 20px;
+
+}
+
+.bottom-nav {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+    background-color: white;
+    margin: 10px 100px;
+    padding: 20px;
+}
