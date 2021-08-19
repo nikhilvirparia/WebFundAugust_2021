@@ -1,0 +1,30 @@
+.col {
+    flex: 1;
+    padding: 15px;
+    margin: 6px;
+    justify-content: space-between;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-2 {
+    flex: 2;
+    padding: 15px;
+    margin: 6px;
+    justify-content: space-between;
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-3 {
+    flex: 3;
+    padding: 15px;
+    margin: 6px;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row {
+    display: flex;
+}
